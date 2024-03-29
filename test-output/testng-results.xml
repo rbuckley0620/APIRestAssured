@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T15:33:07Z" name="Default suite" finished-at="2024-03-10T15:33:10Z" duration-ms="2613">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T15:33:07Z" name="Default test" finished-at="2024-03-10T15:33:10Z" duration-ms="2613">
+      <class name="testCases.Authentication">
+        <test-method signature="generateBearerToken()[pri:0, instance:testCases.Authentication@7fcf2fc1]" started-at="2024-03-10T15:33:07Z" name="generateBearerToken" finished-at="2024-03-10T15:33:10Z" duration-ms="2598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateBearerToken -->
+      </class> <!-- testCases.Authentication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
